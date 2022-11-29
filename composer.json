@@ -1,5 +1,5 @@
 {
-    "name": "spatie/wordpress-ray",
+    "name": "realcodelab/wordpress-ray",
     "type": "wordpress-plugin",
     "description": "Debug WordPress apps with ease",
     "keywords": [
